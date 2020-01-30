@@ -1,4 +1,4 @@
-# hellow-word
+# Hellow-Word
 I will try my best
 
 I am a student in East West University. My department name is Information and Communications Engineering. 
